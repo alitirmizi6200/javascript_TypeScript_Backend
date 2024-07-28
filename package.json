@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
